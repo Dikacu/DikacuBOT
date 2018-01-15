@@ -1,1 +1,1 @@
-worker: node DikacuBOT.py
+worker: python DikacuBOT.py
